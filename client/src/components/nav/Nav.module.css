@@ -1,0 +1,63 @@
+ /* Nav page CSS*/
+* {
+margin: 0;
+padding: 0;
+} 
+
+.Barra{
+/* background-color: red; */
+
+}
+
+
+.ulItems ul li{
+ display: inline;
+list-style: none;
+margin-left: 5%;
+}
+
+.Buscar{} 
+.FiltraContinente{}
+.FiltraActividad{}
+.Filtros{
+height:40px;
+border-radius: 15px;
+border-width: 0px;
+margin-top: 4px;
+
+
+}
+.Contenedor{}
+.button{
+height: 50px;
+width: 100px;
+border-radius: 25px;
+
+}
+
+
+
+
+.titulo{
+	background-color: white;
+opacity: 0.9;
+height: 50px;
+
+}
+
+.Boton{
+	background-color: white;
+	padding: 30px 50px;
+	font-size: 16px;
+	text-align: center;
+/*	text-decoration: none; */
+/*	display: inline-block; */
+	border: none;
+/* border-radius: 25% 1px; */
+	font-weight: bold;
+cursor: pointer;
+}
+.Boton:hover {background-color: #3e8e41;
+	border-radius: 25% 1px;
+	transition: all 0.8s;
+}

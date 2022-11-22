@@ -1,0 +1,13 @@
+/* Tarjetas page CSS*/
+* {
+margin: 0;
+padding: 0;
+} 
+
+.placeholder{
+/* background-color: blue; */
+background:
+    url(../imgs/countries.png) center  no-repeat; 
+	background-color: #2596be; 
+}
+
